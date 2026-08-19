@@ -1,0 +1,17 @@
+export const products = [
+  { id: 1, title: 'Organic Green Tea', price: 12.99 },
+  { id: 2, title: 'Raw Almond Butter', price: 8.49 },
+  { id: 3, title: 'Organic Blueberries', price: 6.99 },
+  { id: 4, title: 'Cold Pressed Olive Oil', price: 18.99 },
+  { id: 5, title: 'Organic Honey', price: 14.99 },
+  { id: 6, title: 'Organic Quinoa', price: 9.99 },
+  { id: 9, title: 'Organic Paddy', price: 7.49 },
+  { id: 10, title: 'Organic Green Grams', price: 5.99 },
+  { id: 11, title: 'Organic Red Grams', price: 6.49 },
+  { id: 12, title: 'Organic Jonnalu', price: 4.99 },
+  { id: 13, title: 'Organic Rhagulu', price: 5.29 },
+  { id: 14, title: 'Organic Minumullu', price: 6.99 },
+  { id: 15, title: 'Organic Shajalu', price: 5.79 },
+  { id: 7, title: 'Organic Spinach', price: 4.99 },
+  { id: 8, title: 'Herbal Supplement Tea', price: 13.99 },
+];
